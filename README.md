@@ -69,7 +69,7 @@ Business Implications
 
 
 Author
-Jordan Shamukiga - www.linkedin.com/in/jordan-shamukiga-6464502b0 | Portfolio
+Jordan Shamukiga - www.linkedin.com/in/jordan-shamukiga-6464502b0 | datascienceportfol.io/jordanshamu
 
 📄 License
 This project is licensed under the MIT License.
